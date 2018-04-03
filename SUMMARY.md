@@ -2,7 +2,7 @@
 
 * [什么是K-Lab](README.md)
 * [Notebook\(编程环境\)](chapter1.md)
-    * <span id='1.1'>Header</span>
+    * [Header](#1.1)
     * [Code Cell](chapter1.md#Code%20Cell)
     * [Markdown Cell](chapter1.md#Markdown20%Cell)
     * [代码收藏区](chapter1.md#代码收藏区)
@@ -17,9 +17,9 @@
     * [创建数据集](chapter4.md#创建数据集)
     * [挂载数据集](chapter4.md#挂载数据集)
     * [管理数据集](chapter4.md#管理数据集)
+
 * [数据分析项目](chapter5.md)
     * [创建项目](chapter5.md#创建项目)
-    * [Fork项目](chapter5.md#Fork项目)
     * [运行项目](chapter5.md#运行项目)
     * [管理项目](chapter5.md#管理项目)
 
@@ -27,7 +27,6 @@
     * [编辑模式](chapter8.md#编辑模式)
     * [命令模式](chapter8.md#命令模式)
     * [全局快捷键](chapter8.md#全局快捷键)
-    *  test
 * [其他](chapter10.md)
     * [组织实效]()
     * [组织人数]()
