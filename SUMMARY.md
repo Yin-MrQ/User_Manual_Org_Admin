@@ -2,7 +2,7 @@
 
 * [什么是K-Lab](README.md)
 * [Notebook\(编程环境\)](chapter1.md)
-    * [Header](chapter1.md#Header)
+    * <span id='1.1'>Header</span>
     * [Code Cell](chapter1.md#Code%20Cell)
     * [Markdown Cell](chapter1.md#Markdown20%Cell)
     * [代码收藏区](chapter1.md#代码收藏区)

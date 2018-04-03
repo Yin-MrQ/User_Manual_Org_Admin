@@ -1,6 +1,6 @@
 # Notebook(编程环境)
 Notebook是用户登录科赛网并打开K-Lab后，在浏览器端所看到的交互式编写界面，由**Header**、**Code Cell**、**Markdown Cell**和**代码收藏区**组成。
-## Header
+<h2 id='1.1'>Header<h2>
 Notebook页面上端构成了Header，包含了项目名称、菜单栏和工具栏。用户在编辑cell时,即使Notebook页面下滑，Header也会保持在页面的最顶端。项目名称可以被用户修改。工具栏和菜单栏包含了各类不同的操作命令和工具方便用户对Notebook进行编辑。
 ![image description](image/header.png) 
 
